@@ -50,7 +50,7 @@ class ViewController: UIViewController {
             rightScore += 1
             rightScoreLabel.text = String(rightScore)
         }else {
-            //tie
+            //tie do nothing
         }
         
         
